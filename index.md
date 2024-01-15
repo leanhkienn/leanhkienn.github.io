@@ -1,3 +1,4 @@
+
 ## PERSONAL PORTFOLIO
 
 ---
@@ -10,8 +11,7 @@ The Customer's Lifetime Value was calculated in Excel using the formula:
 
 The Customer Lifetime Value (CLV) can be calculated using the following formula:
 
-\[ CLV = \frac{{\sum (P_i \times R_i)}}{Churn Rate} \]
-
+$CLV = \frac{\sum (P_i \times R_i)}{Churn Rate}$
 Where:
 - \( P_i \) is the profit generated from the customer in the i-th period,
 - \( R_i \) is the retention rate for the i-th period,
