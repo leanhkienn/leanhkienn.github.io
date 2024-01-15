@@ -5,7 +5,7 @@
 
 ### PROJECT 1: 
 
-## [ [Excel, Power BI] Analyze Customer Lifetime Value and Marketing Performance with Excel and Power BI](/sample_page)
+## [ [Excel, Power BI] Analyze Customer Lifetime Value and Marketing Performance](/sample_page)
 
 [<img src="images/Cover Photo Upwork.png"/>](/sample_page)
 
