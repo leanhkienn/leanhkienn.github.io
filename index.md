@@ -7,9 +7,8 @@
 
 ## [Analyze Customer Lifetime Value and Marketing Performance with Excel and Power BI](/sample_page)
 
-<img src="images/Cover Photo Upwork.png"/>
+[<img src="images/Cover Photo Upwork.png"/>](/sample_page)
 
-<br>
 <br>
 
 ![image](https://github.com/leanhkienn/leanhkienn.github.io/assets/116093407/69e5992e-2337-40ae-aeac-20f7878ff2c3)
