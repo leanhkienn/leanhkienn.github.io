@@ -46,7 +46,7 @@ This is one of the many changes and Data Cleaning being performed with Power Que
 
 <br>
 
-### 4. Extract Insights and provide Recommendations to Client
+## 4. Extract Insights and provide Recommendations to Client
 
 #### a. User Segmentations and Analysis
 
@@ -59,7 +59,7 @@ This is one of the many changes and Data Cleaning being performed with Power Que
   - Conversion peak from 9 AM to 7 PM.
   - Account creation primarily after work hours.
 
-#### b. Advises to our Performance Marketing Team:
+### b. Advises to our Performance Marketing Team:
 
   ### Time-Optimized Campaigns:
   Given that conversions are highest starting at 9 AM and start decreasing at 7 PM, consider optimizing your marketing campaigns to align with these peak conversion hours. Schedule important promotions, advertisements, or targeted communications during this time frame to maximize impact.
@@ -91,7 +91,7 @@ This is one of the many changes and Data Cleaning being performed with Power Que
 
 ---
 
-#### a. MARKETING PERFORMANCE ANALYSIS
+### a. MARKETING PERFORMANCE ANALYSIS
   - Cost per click: $12.81
   - Cost per conversion: $91.16
   - Number of Conversions in 2017: 51 thousand
