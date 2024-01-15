@@ -15,7 +15,7 @@
 
 ---
 ### PROJECT 2: 
-## [[Advanced POWER BI] ATM Transactions Analysis Project](/projectATM)
+## [ [Advanced Power BI] ATM Transactions Analysis Project](/projectATM)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
