@@ -11,7 +11,7 @@ The Customer's Lifetime Value was calculated in Excel using the formula:
 
 The Customer Lifetime Value (CLV) can be calculated using the following formula:
 
-<p style="text-align: center;"> $CLV = \frac{\sum (P_i \times R_i)}{Churn Rate}$ </p>
+<p style="text-align: center"> $CLV = \frac{\sum (P_i \times R_i)}{Churn Rate}$ </p>
 
 <br>
 Where:
