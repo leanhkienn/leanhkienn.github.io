@@ -20,7 +20,7 @@
 ## [ [Advanced Power BI] ATM Transactions Analysis Project](projectATM.md)
 
 ### Tools:  [Power BI]
-![ATM Transaction Overview](https://github.com/leanhkienn/leanhkienn.github.io/assets/116093407/e0fa786a-a386-4ce6-80f1-535efea123d4)
+![ATM Background Image](https://github.com/leanhkienn/leanhkienn.github.io/assets/116093407/4942a17f-e9e3-41c4-9d3c-3e640e7caa37)
 
 ---
 [Project 3 Title](http://example.com/)
