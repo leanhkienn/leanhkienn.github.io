@@ -1,8 +1,8 @@
-## Portfolio
+## PERSONAL PORTFOLIO
 
 ---
 
-### Category Name 1 
+### PROJECT 1: Analyze Customer Lifetime Value and Marketing Performance with Excel and Power BI
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
