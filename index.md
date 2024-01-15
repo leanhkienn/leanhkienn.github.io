@@ -26,6 +26,20 @@
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+
+<br>
+
+---
+### PROJECT 2: 
+## [ [Advanced Power BI] ATM Transactions Analysis Project](projectATM.md)
+
+### Tools:  [Power BI]
+![ATM Transaction Overview](https://github.com/leanhkienn/leanhkienn.github.io/assets/116093407/e0fa786a-a386-4ce6-80f1-535efea123d4)
+
+---
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ---
 
 ### Category Name 2
