@@ -47,7 +47,7 @@ This is one of the many changes and Data Cleaning being performed with Power Que
 
 ### 4. Extract Insights and provide Recommendations to Client
 
-## a. User Segmentations and Analysis
+#### a. User Segmentations and Analysis
 
 ### 1. Geographic Analysis:
 - Highest Average Lifetime Value (LTV) in Australia, the United Kingdom, and South America.
@@ -58,7 +58,7 @@ This is one of the many changes and Data Cleaning being performed with Power Que
 - Conversion peak from 9 AM to 7 PM.
 - Account creation primarily after work hours.
 
-## b. Advises to our Performance Marketing Team:
+#### b. Advises to our Performance Marketing Team:
 
 ### Time-Optimized Campaigns:
 Given that conversions are highest starting at 9 AM and start decreasing at 7 PM, consider optimizing your marketing campaigns to align with these peak conversion hours. Schedule important promotions, advertisements, or targeted communications during this time frame to maximize impact.
@@ -84,13 +84,13 @@ Given the highest average Lifetime Value for SEO and Strategic Partnerships, con
 ### User Engagement Strategies:
 Develop user engagement strategies that cater to the after-work hours. This could include targeted emails, app notifications, or social media posts designed to capture user attention during this timeframe.
 
-## c. Further Analysis Needed and Future Considerations for the Dataset:
+#### c. Further Analysis Needed and Future Considerations for the Dataset:
 - User Segmentation: Further segment users based on additional factors such as income levels, occupation, or device usage. This can provide more nuanced insights into the characteristics of high-value users and inform targeted marketing strategies.
 - Customer Feedback Analysis: If available, analyze customer feedback or support tickets to understand user sentiments, pain points, and areas of satisfaction. This qualitative data can complement quantitative insights and help prioritize improvements.
 
 ---
 
-## a. MARKETING PERFORMANCE ANALYSIS
+#### a. MARKETING PERFORMANCE ANALYSIS
 
 - Cost per click: $12.81
 - Cost per conversion: $91.16
@@ -121,7 +121,7 @@ Develop user engagement strategies that cater to the after-work hours. This coul
 ### Peak Usage Periods:
 - 11 AM to 12 PM and 2 PM to 4 PM
 
-## b. Weekly Performance Metrics and Actions:
+#### b. Weekly Performance Metrics and Actions:
 
 ### Cost-Per-Click (CPC) and Cost-Per-Conversion (CPC):
 - Action: Monitor CPC and CPC every week.
