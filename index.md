@@ -24,10 +24,12 @@ This formula represents the total present value of the future cash flows generat
 
 # Customers' Lifetime Value Analysis
 <img src="images/Cover Photo Upwork.png"/>
-![image](https://github.com/leanhkienn/leanhkienn.github.io/assets/116093407/7978242d-720a-4f1b-b643-e0038ae70046)
+<br>
+![image](https://github.com/leanhkienn/leanhkienn.github.io/assets/116093407/9327ebb7-c440-4420-8c3f-d2ebe0a1f8d5)
 
 # Marketing Performance Analysis
 ![image](https://github.com/leanhkienn/leanhkienn.github.io/assets/116093407/69e5992e-2337-40ae-aeac-20f7878ff2c3)
+<br>
 ![image](https://github.com/leanhkienn/leanhkienn.github.io/assets/116093407/b094ab16-8586-4cf8-9585-6e85f3208f85)
 
 
