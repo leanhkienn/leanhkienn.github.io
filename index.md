@@ -3,7 +3,8 @@
 ---
 
 ### PROJECT 1: 
-<br> Analyze Customer Lifetime Value and Marketing Performance with Excel and Power BI
+<br> 
+## Analyze Customer Lifetime Value and Marketing Performance with Excel and Power BI
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
