@@ -7,8 +7,6 @@
 
 ## [Analyze Customer Lifetime Value and Marketing Performance with Excel and Power BI](/sample_page)
 
-
-# Customers' Lifetime Value Analysis
 <img src="images/Cover Photo Upwork.png"/>
 
 <br>
