@@ -5,7 +5,9 @@
 
 ### PROJECT 1: 
 
-## [ [Excel, Power BI] Analyze Customer Lifetime Value and Marketing Performance](/sample_page)
+## [ Analyze Customer Lifetime Value and Marketing Performance](/sample_page)
+
+### Tools:  [Excel, Power BI]
 
 [<img src="images/Cover Photo Upwork.png"/>](/sample_page)
 
@@ -16,6 +18,8 @@
 ---
 ### PROJECT 2: 
 ## [ [Advanced Power BI] ATM Transactions Analysis Project](projectATM.md)
+
+### Tools:  [Power BI]
 ![ATM Transaction Overview](https://github.com/leanhkienn/leanhkienn.github.io/assets/116093407/e0fa786a-a386-4ce6-80f1-535efea123d4)
 
 ---
