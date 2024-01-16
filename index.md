@@ -28,8 +28,11 @@
 
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### PROJECT 3: 
+## [E-Commerce Sales Exploratory Data Analysis](https://c099108c-86d4-4692-87fd-c7098f827376-00-33fvyru3jmqy4.global.replit.dev/eCommerce_DataAnalysis.html)
+### Tools:  [MS SQL, Power BI]
+[![image](https://github.com/leanhkienn/leanhkienn.github.io/assets/116093407/fb31d16c-7671-4736-a116-45244b66cf5e)](https://c099108c-86d4-4692-87fd-c7098f827376-00-33fvyru3jmqy4.global.replit.dev/eCommerce_DataAnalysis.html)
+
 
 
 <br>
