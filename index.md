@@ -17,13 +17,12 @@
 
 ---
 ### PROJECT 2: 
-## [ [Advanced Power BI] ATM Transactions Analysis Project]([projectATM.md](https://c099108c-86d4-4692-87fd-c7098f827376-00-33fvyru3jmqy4.global.replit.dev/eCommerce_DataAnalysis.html))
+## [ [Advanced Power BI] ATM Transactions Analysis Project](https://c099108c-86d4-4692-87fd-c7098f827376-00-33fvyru3jmqy4.global.replit.dev/eCommerce_DataAnalysis.html)
 
 ### Tools:  [Power BI]
 [![ATM Background Image](https://github.com/leanhkienn/leanhkienn.github.io/assets/116093407/4942a17f-e9e3-41c4-9d3c-3e640e7caa37)](https://c099108c-86d4-4692-87fd-c7098f827376-00-33fvyru3jmqy4.global.replit.dev/eCommerce_DataAnalysis.html)
 
-[![image](https://github.com/leanhkienn/leanhkienn.github.io/assets/116093407/347b03e6-0512-4f2e-952b-0dea675791a4)
-](https://c099108c-86d4-4692-87fd-c7098f827376-00-33fvyru3jmqy4.global.replit.dev/eCommerce_DataAnalysis.html)
+
 
 
 ---
